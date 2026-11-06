@@ -1,0 +1,11 @@
+name: Feature suggestion
+description: Suggest an improvement or ask a product question.
+title: "[Suggestion]: "
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: What would help your workflow?
+      description: Describe the problem and desired behavior. Do not include sensitive data.
+    validations:
+      required: true

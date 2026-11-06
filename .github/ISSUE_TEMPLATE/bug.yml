@@ -1,0 +1,23 @@
+name: Bug report
+description: Report a reproducible OptionDrag problem.
+title: "[Bug]: "
+body:
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: OptionDrag version
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Steps, expected behavior and actual behavior
+      description: Keep it short. Do not include passwords, tokens, private documents or complete system logs.
+    validations:
+      required: true

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>OptionDrag updates</title><link>https://github.com/LOHUX/optiondrag-releases/releases</link><item><title>OptionDrag 1.1.0</title><link>https://github.com/LOHUX/optiondrag-releases/releases/tag/v1.1.0</link><sparkle:version>12</sparkle:version><sparkle:shortVersionString>1.1.0</sparkle:shortVersionString><sparkle:channel>free</sparkle:channel><sparkle:minimumSystemVersion>12.0.0</sparkle:minimumSystemVersion><description sparkle:format="plain-text">OptionDrag 1.1.0: free native window movement, resizing, side snap, explicit maximize/restore, Quick Guide and local Gesture Practice. Universal macOS 12+. Ad-hoc signed and not notarized; manual installation and Accessibility approval may be required.</description></item></channel></rss><!-- sparkle-signatures:
+edSignature: nkXyhvmyRCKRiqV1EbYoS1imC6lyGRri2vStLQupI3Sp8WLfx6NE0/IFgdmXAckXAk43YNrpvmJMo0baWcHMAA==
+length: 1135
+-->
